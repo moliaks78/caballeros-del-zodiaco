@@ -1,0 +1,124 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nombre": "Mu",
+      "armadura": "Aries",
+      "procedencia": "Jamir (Tíbet)",
+      "tecnicas": "Extinción Estelar",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/mu_de_aries.jpg",
+      "descripcion": "El sabio Caballero de Aries. Es experto en reparar las armaduras y posee grandes habilidades psíquicas."
+    },
+    {
+      "id": 2,
+      "nombre": "Aldebarán",
+      "armadura": "Tauro",
+      "procedencia": "Brasil",
+      "tecnicas": "Gran Cuerno",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/aldebaran_de_tauro.jpg",
+      "descripcion": "Un guerrero de enorme fuerza física que protege la segunda casa del Santuario."
+    },
+    {
+      "id": 3,
+      "nombre": "Saga",
+      "armadura": "Géminis",
+      "procedencia": "Grecia",
+      "tecnicas": "Explosión de Galaxias",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/saga_de_geminis.jpg",
+      "descripcion": "Uno de los Caballeros de Oro más poderosos, cuya personalidad está marcada por un conflicto entre el bien y el mal."
+    },
+    {
+      "id": 4,
+      "nombre": "Máscara de Muerte",
+      "armadura": "Cáncer",
+      "procedencia": "Italia",
+      "tecnicas": "Ondas Infernales",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/deathmask.jpg",
+      "descripcion": "Un caballero temible que utiliza las almas de sus enemigos como parte de sus poderes."
+    },
+    {
+      "id": 5,
+      "nombre": "Aiolia",
+      "armadura": "Leo",
+      "procedencia": "Grecia",
+      "tecnicas": "Relámpago de Plasma",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/aioria_de_leo.jpg",
+      "descripcion": "El valiente Caballero de Leo, reconocido por su velocidad, fuerza y sentido de justicia."
+    },
+    {
+      "id": 6,
+      "nombre": "Shaka",
+      "armadura": "Virgo",
+      "procedencia": "India",
+      "tecnicas": "Tesoro del Cielo",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/shaka_de_virgo.jpg",
+      "descripcion": "Considerado el hombre más cercano a un dios, posee un extraordinario dominio espiritual."
+    },
+    {
+      "id": 7,
+      "nombre": "Dohko",
+      "armadura": "Libra",
+      "procedencia": "China",
+      "tecnicas": "Cien Dragones de Rozan",
+      "categoria": "Oro",
+      "imagen": null,
+      "descripcion": "El antiguo maestro de Shiryu y sobreviviente de la anterior Guerra Santa."
+    },
+    {
+      "id": 8,
+      "nombre": "Milo",
+      "armadura": "Escorpio",
+      "procedencia": "Grecia",
+      "tecnicas": "Aguja Escarlata",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/milo_de_escorpio.jpg",
+      "descripcion": "Un guerrero orgulloso y decidido que ataca con precisión mediante sus técnicas de aguja."
+    },
+    {
+      "id": 9,
+      "nombre": "Aiolos",
+      "armadura": "Sagitario",
+      "procedencia": "Grecia",
+      "tecnicas": "Flecha Dorada",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/aioros_de_sagitario.jpg",
+      "descripcion": "El antiguo Caballero de Sagitario, recordado por su valentía y por haber protegido a Atenea."
+    },
+    {
+      "id": 10,
+      "nombre": "Shura",
+      "armadura": "Capricornio",
+      "procedencia": "España",
+      "tecnicas": "Excalibur",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/shura_de_capricornio.jpg",
+      "descripcion": "Un caballero que posee brazos y piernas capaces de cortar como una espada."
+    },
+    {
+      "id": 11,
+      "nombre": "Camus",
+      "armadura": "Acuario",
+      "procedencia": "Francia",
+      "tecnicas": "Ejecución Aurora",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/camus_de_acuario.jpg",
+      "descripcion": "Maestro del hielo y mentor de Hyoga, domina las técnicas de congelación."
+    },
+    {
+      "id": 12,
+      "nombre": "Afrodita",
+      "armadura": "Piscis",
+      "procedencia": "Suecia",
+      "tecnicas": "Rosas Diabólicas Reales",
+      "categoria": "Oro",
+      "imagen": "IMAGENES/oro/afrodita_de_piscis.jpg",
+      "descripcion": "Un guerrero de gran belleza que utiliza rosas venenosas y técnicas mortales."
+    }
+  ]
+}

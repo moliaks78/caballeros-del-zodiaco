@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nombre": "Atenea (Saori Kido)",
+      "armadura": "Diosa Atenea",
+      "procedencia": "Grecia",
+      "tecnicas": "Cosmo divino",
+      "categoria": "Otros",
+      "imagen": "IMAGENES/athena/athena1.jpg",
+      "descripcion": "La reencarnación de Atenea en la Tierra. Es protegida por los caballeros y lucha por la paz y la justicia."
+    },
+    {
+      "id": 2,
+      "nombre": "Shion de Aries",
+      "armadura": "Armadura de Oro de Aries",
+      "procedencia": "Tíbet",
+      "tecnicas": "Revolución de Polvo Estelar",
+      "categoria": "Otros",
+      "imagen": null,
+      "descripcion": "Antiguo Patriarca del Santuario y maestro de Mu. Sobrevivió a la Guerra Santa anterior."
+    },
+    {
+      "id": 3,
+      "nombre": "Patriarca Ares",
+      "armadura": "Vestimenta del Patriarca",
+      "procedencia": "Santuario de Grecia",
+      "tecnicas": "Poder del Cosmo",
+      "categoria": "Otros",
+      "imagen": null,
+      "descripcion": "La figura que gobierna el Santuario durante gran parte de la historia clásica."
+    },
+    {
+      "id": 4,
+      "nombre": "Kiki",
+      "armadura": "Sin armadura",
+      "procedencia": "Jamir",
+      "tecnicas": "Telequinesis",
+      "categoria": "Otros",
+      "imagen": null,
+      "descripcion": "Aprendiz de Mu y personaje cercano a los Caballeros de Bronce."
+    },
+    {
+      "id": 5,
+      "nombre": "Cassios",
+      "armadura": "Sin armadura",
+      "procedencia": "Grecia",
+      "tecnicas": "Fuerza física",
+      "categoria": "Otros",
+      "imagen": null,
+      "descripcion": "Rival de Seiya durante el entrenamiento por la armadura de Pegaso."
+    }
+  ]
+}

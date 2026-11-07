@@ -1,0 +1,164 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nombre": "Marin",
+      "armadura": "Águila",
+      "procedencia": "Japón",
+      "tecnicas": "Destello del Águila",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/marin_aguila.jpg",
+      "descripcion": "Maestra de Seiya y una de las guerreras más importantes del Santuario."
+    },
+    {
+      "id": 2,
+      "nombre": "Shaina",
+      "armadura": "Ofiuco",
+      "procedencia": "Italia",
+      "tecnicas": "Garra de Trueno",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/shaina_ofiuco.jpg",
+      "descripcion": "Una poderosa guerrera que inicialmente persigue a Seiya, pero cuyo destino cambia con el tiempo."
+    },
+    {
+      "id": 3,
+      "nombre": "Misty",
+      "armadura": "Lagarto",
+      "procedencia": "Francia",
+      "tecnicas": "Muro de Aire",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/misty_lagarto.jpg",
+      "descripcion": "Un caballero orgulloso que considera que ningún adversario puede superar su belleza y poder."
+    },
+    {
+      "id": 4,
+      "nombre": "Moses",
+      "armadura": "Ballena",
+      "procedencia": "Nueva Zelanda",
+      "tecnicas": "Bomba de Agua de la Ballena",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/moises_ballena.jpg",
+      "descripcion": "Un guerrero de gran tamaño que participa en la persecución de los Caballeros de Bronce."
+    },
+    {
+      "id": 5,
+      "nombre": "Asterion",
+      "armadura": "Perros de Caza",
+      "procedencia": "Dinamarca",
+      "tecnicas": "Ataque de los Millones de Fantasmas",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/asterion_perros_caza.jpg",
+      "descripcion": "Posee una extraordinaria capacidad para leer los pensamientos de sus adversarios."
+    },
+    {
+      "id": 6,
+      "nombre": "Babel",
+      "armadura": "Centauro",
+      "procedencia": "Irak",
+      "tecnicas": "Llamas del Centauro",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/babel_centauro.jpg",
+      "descripcion": "Un caballero que domina el fuego y se enfrenta a los protagonistas."
+    },
+    {
+      "id": 7,
+      "nombre": "Algol",
+      "armadura": "Perseo",
+      "procedencia": "Arabia Saudita",
+      "tecnicas": "Escudo de Medusa",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/algol_perseo.jpg",
+      "descripcion": "Su escudo contiene la imagen de Medusa, capaz de convertir en piedra a sus enemigos."
+    },
+    {
+      "id": 8,
+      "nombre": "Jamian",
+      "armadura": "Cuervo",
+      "procedencia": "Escocia",
+      "tecnicas": "Alas Negras",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/jamian_cuervo.jpg",
+      "descripcion": "Controla una bandada de cuervos y participa en el enfrentamiento contra Seiya."
+    },
+    {
+      "id": 9,
+      "nombre": "Capella",
+      "armadura": "Auriga",
+      "procedencia": "Grecia",
+      "tecnicas": "Discos Mortales",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/capella_auriga.jpg",
+      "descripcion": "Utiliza discos afilados como armas para atacar a sus enemigos."
+    },
+    {
+      "id": 10,
+      "nombre": "Dante",
+      "armadura": "Cerbero",
+      "procedencia": "Italia",
+      "tecnicas": "Cadenas de Cerbero",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/dante_cerbero.jpg",
+      "descripcion": "Un caballero que utiliza cadenas con esferas metálicas para combatir."
+    },
+    {
+      "id": 11,
+      "nombre": "Dio",
+      "armadura": "Mosca",
+      "procedencia": "México",
+      "tecnicas": "Vuelo Mortal",
+      "categoria": "Plata",
+      "imagen": null,
+      "descripcion": "Un guerrero veloz que participa en el ataque contra los Caballeros de Bronce."
+    },
+    {
+      "id": 12,
+      "nombre": "Sirius",
+      "armadura": "Can Mayor",
+      "procedencia": "Alemania",
+      "tecnicas": "Gran Aplastamiento",
+      "categoria": "Plata",
+      "imagen": null,
+      "descripcion": "Uno de los tres caballeros de plata que enfrentan a los protagonistas en el Santuario."
+    },
+    {
+      "id": 13,
+      "nombre": "Algethi",
+      "armadura": "Hércules",
+      "procedencia": "África",
+      "tecnicas": "Kornephoros",
+      "categoria": "Plata",
+      "imagen": null,
+      "descripcion": "Un guerrero de enorme fuerza física que acompaña a Sirius y Dio."
+    },
+    {
+      "id": 14,
+      "nombre": "Ptolemy",
+      "armadura": "Flecha",
+      "procedencia": "Libia",
+      "tecnicas": "Flecha Fantasma",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/ptolemy_flecha.jpg",
+      "descripcion": "Es el encargado de recibir a los Caballeros de Bronce antes de su ingreso al Santuario."
+    },
+    {
+      "id": 15,
+      "nombre": "Orfeo",
+      "armadura": "Lira",
+      "procedencia": "Grecia",
+      "tecnicas": "Réquiem de Cuerdas",
+      "categoria": "Plata",
+      "imagen": null,
+      "descripcion": "Un extraordinario músico y guerrero cuya música posee un poder devastador."
+    },
+    {
+      "id": 16,
+      "nombre": "Albiore",
+      "armadura": "Cefeo",
+      "procedencia": "Etiopía",
+      "tecnicas": "Onda de Trueno",
+      "categoria": "Plata",
+      "imagen": "IMAGENES/plata/albiore_cefeo.jpg",
+      "descripcion": "Caballero de Plata de Cefeo y maestro de Shun en la Isla de Andrómeda."
+    }
+  ]
+}

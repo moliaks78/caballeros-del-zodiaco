@@ -1,0 +1,17 @@
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Dependencias y artefactos (no se usan en este proyecto, pero se excluyen por las dudas)
+node_modules/
+dist/
+*.log
+
+# Archivos temporales
+*.tmp

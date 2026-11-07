@@ -1,0 +1,261 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Saint Wiki: explorá los personajes, armaduras y técnicas de los Caballeros del Zodiaco. Proyecto académico de Diseño Web 2.">
+    <meta name="theme-color" content="#050914">
+
+    <title>Saint Wiki - Caballeros del Zodiaco</title>
+
+    <link rel="icon" type="image/png" href="IMAGENES/favicom/logo-zodiaco.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Cinzel:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+
+    <!-- ENCABEZADO -->
+
+    <header>
+        <img src="IMAGENES/favicom/logo-zodiaco.png"
+             alt="Logo de Saint Wiki"
+             class="logo"
+             width="256"
+             height="256"
+             decoding="async">
+
+        <h1>SAINT WIKI</h1>
+        <p>El universo de los Caballeros del Zodiaco</p>
+
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#categorias">Categorías</a></li>
+                <li><a href="#personajes">Personajes</a></li>
+                <li><a href="#enlaces">Enlaces</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- PRESENTACION -->
+
+        <section id="inicio" class="presentacion">
+
+            <p class="subtitulo">EL COSMOS NUNCA DEJA DE ARDER</p>
+
+            <h2>¡Bienvenidos al Santuario!</h2>
+
+            <p>
+                Descubrí el universo de Saint Seiya, sus guerreros,
+                sus armaduras y las batallas que marcaron una época.
+            </p>
+
+            <a href="#categorias" class="boton">
+                Explorar personajes
+            </a>
+
+        </section>
+
+
+        <!-- CATEGORIAS -->
+
+        <section id="categorias">
+
+            <h2>Las categorías de guerreros</h2>
+
+            <p class="descripcion-seccion">
+                Conocé a los guerreros que protegen el Santuario
+                y a los personajes que forman parte de esta historia.
+            </p>
+
+            <div class="categorias">
+
+                <article class="categoria">
+                    <div class="imagen-categoria-contenedor">
+                        <img src="IMAGENES/oro/portadaOro.jpg"
+                             alt="Caballeros de Oro"
+                             class="imagen-categoria"
+                             width="600"
+                             height="335"
+                             decoding="async">
+                        <span class="simbolo" aria-hidden="true">♌</span>
+                    </div>
+                    <h3>Caballeros de Oro</h3>
+                    <p>Los doce guardianes de las casas zodiacales.</p>
+                    <button type="button" onclick="cargarPersonajes('oro')">
+                        Ver personajes
+                    </button>
+                </article>
+
+                <article class="categoria">
+                    <div class="imagen-categoria-contenedor">
+                        <img src="IMAGENES/plata/portadaPlata.jpg"
+                             alt="Caballeros de Plata"
+                             class="imagen-categoria"
+                             width="600"
+                             height="335"
+                             decoding="async">
+                        <span class="simbolo" aria-hidden="true">☾</span>
+                    </div>
+                    <h3>Caballeros de Plata</h3>
+                    <p>Guerreros de gran poder al servicio de Atenea.</p>
+                    <button type="button" onclick="cargarPersonajes('plata')">
+                        Ver personajes
+                    </button>
+                </article>
+
+                <article class="categoria">
+                    <div class="imagen-categoria-contenedor">
+                        <img src="IMAGENES/bronce/portadaBronce.jpg"
+                             alt="Caballeros de Bronce"
+                             class="imagen-categoria"
+                             width="600"
+                             height="335"
+                             decoding="async">
+                        <span class="simbolo" aria-hidden="true">⚔</span>
+                    </div>
+                    <h3>Caballeros de Bronce</h3>
+                    <p>Los jóvenes guerreros que defienden a Atenea.</p>
+                    <button type="button" onclick="cargarPersonajes('bronce')">
+                        Ver personajes
+                    </button>
+                </article>
+
+                <article class="categoria">
+                    <div class="imagen-categoria-contenedor">
+                        <img src="IMAGENES/athena/athena2.jpg"
+                             alt="Otros personajes de la historia"
+                             class="imagen-categoria"
+                             width="500"
+                             height="500"
+                             decoding="async">
+                        <span class="simbolo" aria-hidden="true">✦</span>
+                    </div>
+                    <h3>Otros personajes</h3>
+                    <p>Dioses, aliados y figuras importantes de la historia.</p>
+                    <button type="button" onclick="cargarPersonajes('otros')">
+                        Ver personajes
+                    </button>
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- PERSONAJES -->
+
+        <section id="personajes">
+
+            <h2>Explorador de personajes</h2>
+
+            <p class="descripcion-seccion">
+                Buscá por nombre, armadura o técnica.
+                No importa a qué categoría pertenezca.
+            </p>
+
+            <form id="formBusqueda">
+
+                <label for="buscador" class="sr-only">
+                    Buscar personaje por nombre, armadura o técnica
+                </label>
+
+                <input
+                    type="text"
+                    id="buscador"
+                    placeholder="Ejemplo: Seiya, Pegaso, Excalibur..."
+                >
+
+                <button type="submit">Buscar</button>
+
+                <button type="button" id="limpiarBusqueda" class="boton-limpiar">
+                    Limpiar
+                </button>
+
+            </form>
+
+            <div id="listaPersonajes" aria-live="polite">
+
+                <p>Seleccioná una categoría o buscá un personaje.</p>
+
+            </div>
+
+        </section>
+
+
+        <!-- ENLACES -->
+
+        <section id="enlaces">
+
+            <h2>Enlaces de interés</h2>
+
+            <p class="descripcion-seccion">
+                Explorá otros espacios para conocer más sobre Saint Seiya.
+            </p>
+
+            <div class="enlaces-contenedor">
+
+                <article class="enlace-card">
+                    <h3>Wikipedia</h3>
+                    <p>Información general sobre la historia y sus personajes.</p>
+                    <a href="https://es.wikipedia.org/wiki/Los_Caballeros_del_Zodiaco"
+                       target="_blank" rel="noopener noreferrer">
+                        Conocer más
+                    </a>
+                </article>
+
+                <article class="enlace-card">
+                    <h3>Saint Seiya Wiki</h3>
+                    <p>Una enciclopedia de personajes, armaduras y técnicas.</p>
+                    <a href="https://saintseiya.fandom.com/es/wiki/Saint_Seiya_Wiki"
+                       target="_blank" rel="noopener noreferrer">
+                        Visitar la wiki
+                    </a>
+                </article>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- PIE DE PAGINA -->
+
+    <footer>
+
+        <h2>Créditos y agradecimientos</h2>
+
+        <div class="creditos">
+
+            <p>
+                Bosquejo original: Grisel (Diseño Web 1)
+            </p>
+
+            <p>
+                Desarrollo Web: Anabel, Cynthia y Diego (Diseño Web 2)
+            </p>
+
+        </div>
+
+        <p class="copyright">
+            Saint Wiki - Proyecto académico de Diseño Web 2
+        </p>
+
+    </footer>
+
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>
+

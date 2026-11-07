@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nombre": "Seiya",
+      "armadura": "Pegaso",
+      "procedencia": "Japón",
+      "tecnicas": "Meteoros de Pegaso",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/seiya_pegaso.jpg",
+      "descripcion": "El protagonista de la historia. Su determinación y espíritu de lucha lo llevan a defender a Atenea."
+    },
+    {
+      "id": 2,
+      "nombre": "Shiryu",
+      "armadura": "Dragón",
+      "procedencia": "Japón",
+      "tecnicas": "Cólera del Dragón",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/shiryu_dragon.jpg",
+      "descripcion": "Un guerrero disciplinado y leal, conocido por su valentía y su espíritu de sacrificio."
+    },
+    {
+      "id": 3,
+      "nombre": "Hyoga",
+      "armadura": "Cisne",
+      "procedencia": "Rusia",
+      "tecnicas": "Polvo de Diamantes",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/hyoga_cisne.jpg",
+      "descripcion": "Un caballero que domina el frío y el hielo, con un fuerte vínculo con su madre."
+    },
+    {
+      "id": 4,
+      "nombre": "Shun",
+      "armadura": "Andrómeda",
+      "procedencia": "Japón",
+      "tecnicas": "Cadena de Andrómeda",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/shun_andromeda.jpg",
+      "descripcion": "Un guerrero pacífico que prefiere evitar las batallas, pero que demuestra un enorme poder cuando es necesario."
+    },
+    {
+      "id": 5,
+      "nombre": "Ikki",
+      "armadura": "Fénix",
+      "procedencia": "Japón",
+      "tecnicas": "Ave Fénix",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/ikki_fenix.jpg",
+      "descripcion": "El hermano mayor de Shun. Es un guerrero solitario, poderoso y de carácter fuerte."
+    },
+    {
+      "id": 6,
+      "nombre": "Jabu",
+      "armadura": "Unicornio",
+      "procedencia": "Japón",
+      "tecnicas": "Galope del Unicornio",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/jabu_unicornio.jpg",
+      "descripcion": "Uno de los Caballeros de Bronce que participa en el Torneo Galáctico. Es impulsivo y orgulloso."
+    },
+    {
+      "id": 7,
+      "nombre": "Ichi",
+      "armadura": "Hidra",
+      "procedencia": "Japón",
+      "tecnicas": "Colmillos de la Hidra",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/ichi_hidra.jpg",
+      "descripcion": "Guerrero entrenado en la Isla de Andrómeda. Utiliza los colmillos venenosos de la Hidra."
+    },
+    {
+      "id": 8,
+      "nombre": "Geki",
+      "armadura": "Oso",
+      "procedencia": "Japón",
+      "tecnicas": "Abrazo del Oso",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/geki_oso.jpg",
+      "descripcion": "Un caballero de gran fuerza física, conocido por su resistencia y sus ataques contundentes."
+    },
+    {
+      "id": 9,
+      "nombre": "Ban",
+      "armadura": "León Menor",
+      "procedencia": "Japón",
+      "tecnicas": "Garra del León Menor",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/ban_leon_menor.jpg",
+      "descripcion": "El Caballero de León Menor, veloz y agresivo, participa en el Torneo Galáctico."
+    },
+    {
+      "id": 10,
+      "nombre": "Nachi",
+      "armadura": "Lobo",
+      "procedencia": "Japón",
+      "tecnicas": "Colmillo del Lobo",
+      "categoria": "Bronce",
+      "imagen": "IMAGENES/bronce/nachi_lobo.jpg",
+      "descripcion": "Caballero de Lobo que forma parte del grupo de bronce. Se caracteriza por su instinto de lucha."
+    }
+  ]
+}
